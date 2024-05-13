@@ -1,0 +1,48 @@
+2024-04-29T10:25:14.238Z error: Error getting: Code not matched to login
+2024-04-29T11:09:44.647Z error: Error getting: Employee.isInvalidPassword is not a function
+2024-04-29T11:10:09.623Z error: Error getting: jwt is not defined
+2024-04-29T11:11:48.361Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:13:30.556Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:14:41.429Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:15:09.793Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:15:10.468Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:15:10.867Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:15:11.051Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:15:11.242Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:15:11.427Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:15:11.602Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:15:11.778Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:15:11.954Z error: Error getting: "expiresIn" should be a number of seconds or string representing a timespan eg: "1d", "20h", 60
+2024-04-29T11:15:28.215Z error: Error getting: Cannot set headers after they are sent to the client
+2024-04-29T11:15:55.373Z error: Error getting: Cannot set headers after they are sent to the client
+2024-04-29T11:20:53.768Z error: Error getting: signAccessToken is not a function
+2024-04-29T11:22:17.128Z error: Error getting: signAccessToken is not a function
+2024-04-29T11:24:54.912Z error: Error getting: JWT is not defined
+2024-04-29T11:25:36.630Z error: Error getting: Cannot set headers after they are sent to the client
+2024-04-29T11:30:09.888Z error: Error getting: signAccessToken is not a function
+2024-04-29T11:50:44.892Z error: Error getting: userId is not defined
+2024-04-29T11:52:58.870Z error: Error getting: "audience" must be a string or array
+2024-04-29T11:53:53.007Z error: Error getting: "audience" must be a string or array
+2024-04-29T11:54:17.038Z error: Error getting: Cannot read properties of undefined (reading 'toString')
+2024-04-30T05:47:36.690Z error: Error getting: krishnam.webosmotic@gmail.com is already existing in database.
+2024-04-30T05:48:18.892Z error: Error getting: transport.sendRegisterMail is not a function
+2024-04-30T05:51:01.762Z error: Error getting: krishnam.webosmotic@gmail.com is already existing in database.
+2024-04-30T05:52:12.851Z error: Error getting: transport?.sendRegisterMail is not a function
+2024-04-30T06:03:59.642Z error: Error getting: Employee.isInvalidPassword is not a function
+2024-04-30T06:04:13.874Z error: Error getting: Employee.isInvalidPassword is not a function
+2024-04-30T06:05:33.993Z error: Error getting: Employee.isInvalidPassword is not a function
+2024-04-30T07:07:53.506Z error: Error getting: Cast to ObjectId failed for value "status=ACTIVE" (type string) at path "_id" for model "company"
+2024-04-30T07:31:30.763Z error: 500 - undefined - address is not defined - /companies - GET - ::ffff:127.0.0.1
+2024-04-30T07:35:06.079Z error: 500 - undefined - Aggregate has empty pipeline - /companies - GET - ::ffff:127.0.0.1
+2024-04-30T08:33:57.945Z error: 500 - undefined - Product is not defined - /companies - GET - ::ffff:127.0.0.1
+2024-04-30T09:00:25.743Z error: Error getting: Company is not defined
+2024-04-30T09:01:40.549Z error: Error getting: Company is not defined
+2024-04-30T09:03:42.650Z error: Error getting: firstName is not defined
+2024-04-30T09:03:45.322Z error: Error getting: firstName is not defined
+2024-04-30T09:14:53.280Z error: Error getting: Aggregate has empty pipeline
+2024-04-30T09:14:54.433Z error: Error getting: Aggregate has empty pipeline
+2024-04-30T09:19:16.552Z error: Error getting: Aggregate has empty pipeline
+2024-04-30T09:19:43.179Z error: Error getting: Aggregate has empty pipeline
+2024-04-30T09:20:13.507Z error: Error getting: Aggregate has empty pipeline
+2024-04-30T09:20:49.467Z error: Error getting: Aggregate has empty pipeline
+2024-04-30T12:48:14.614Z error: Error:connect ECONNREFUSED 127.0.0.1:27017
